@@ -15,7 +15,7 @@ console.log (serverName)
 serverName = "https://kodluyoruz.org"
 console.log(serverName)
 // let ile değişkene bilgi atarayarak tanimlamak
-let Password = "1234"
+let Password = "12345"
 console.log(Password)
 
 // değişken atamasi yapmadan once kullanmaya çalişmak
