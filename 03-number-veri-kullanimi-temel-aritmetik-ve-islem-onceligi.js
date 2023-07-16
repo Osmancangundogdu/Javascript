@@ -52,3 +52,51 @@ console.log ( "Asagi yuvarlama", Math.floor(1.9) )
 console.log ( "Yukari Yuvarlama", Math.ceil(1.9)  )
 // yakina yuvarlama islemi -> math-round :
 console.log ( "Yakina Yuvarlama",Math.round (1.5 ) ) // 1.4 ->1   //1.5 ->2
+
+
+
+
+
+
+
+
+
+let pricee = 15000
+let taxx = 0.18
+let priceeTaxx = pricee * taxx
+let totall = pricee * priceeTaxx
+console.log("Fiyat:",pricee,
+" KDV:", taxx ,
+" KDV tutari:", priceeTaxx ,
+" Toplam:", totall)
+
+
+
+
+counter +=1
+counter =counter+1
+counter-=1
+counter=-1;
+counter=+1;
+counter /=2
+counter*=4
+counter+=2
+
+
+console.log (counter)
+
+
+ Math.floor= (1.5)
+Math.ceil= (1.8)
+Math.round = (1.4)
+
+
+console.log(21%3)
+console.log (25%9)
+console.log (15%8)
+
+console.log(2*2*2*2)
+console.log(2**4)
+
+let oldNumber=Number(stringNumber)
+console.log(oldNumber)
